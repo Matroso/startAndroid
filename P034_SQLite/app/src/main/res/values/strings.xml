@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P034_SQLite</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="Add">Add</string>
+    <string name="Read">Read</string>
+    <string name="Clear">Clear</string>
+</resources>
